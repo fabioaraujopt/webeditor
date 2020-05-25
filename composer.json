@@ -1,0 +1,11 @@
+{
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "czproject/git-php": "^3.17",
+        "sebastian/version": "^3.0",
+        "knplabs/github-api": "^2.14",
+        "php-http/guzzle6-adapter": "1.1",
+        "coyl/git": "^0.1.7",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
